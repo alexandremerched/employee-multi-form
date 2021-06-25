@@ -1,0 +1,1 @@
+export const weekdays = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabádo', 'Domingo']
